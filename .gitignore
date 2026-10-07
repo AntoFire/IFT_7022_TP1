@@ -1,0 +1,8 @@
+.venv/**
+
+electra_incidents/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
